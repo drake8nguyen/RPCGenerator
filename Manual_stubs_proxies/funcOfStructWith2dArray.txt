@@ -1,0 +1,507 @@
+12/12/2019 01:24:47.675239 ./funcOfStructWith2dArrayclient: rpcproxyinitialize: Creating C150StreamSocket
+12/12/2019 01:24:47.803302 ./funcOfStructWith2dArrayclient: C150StreamSocket::C150StreamSocket: user port is 7025
+12/12/2019 01:24:47.803333 ./funcOfStructWith2dArrayclient: C150StreamSocket::connect(comp117-02) called
+12/12/2019 01:24:47.807921 ./funcOfStructWith2dArrayclient: C150StreamSocket::write: attempting to send packet with len=11 |operation1.|
+12/12/2019 01:24:47.807963 ./funcOfStructWith2dArrayclient: C150StreamSocket::write: Success writing packet with len=11 |operation1.|
+12/12/2019 01:24:47.808009 ./funcOfStructWith2dArrayclient: C150StreamSocket::write: attempting to send packet with len=7 |100000.|
+12/12/2019 01:24:47.808090 ./funcOfStructWith2dArrayclient: C150StreamSocket::write: Success writing packet with len=7 |100000.|
+12/12/2019 01:24:47.808120 ./funcOfStructWith2dArrayclient: C150StreamSocket::write: attempting to send packet with len=7 |Runzte.|
+12/12/2019 01:24:47.808163 ./funcOfStructWith2dArrayclient: C150StreamSocket::write: Success writing packet with len=7 |Runzte.|
+12/12/2019 01:24:47.808190 ./funcOfStructWith2dArrayclient: C150StreamSocket::write: attempting to send packet with len=3 |Si.|
+12/12/2019 01:24:47.808232 ./funcOfStructWith2dArrayclient: C150StreamSocket::write: Success writing packet with len=3 |Si.|
+12/12/2019 01:24:47.808261 ./funcOfStructWith2dArrayclient: C150StreamSocket::write: attempting to send packet with len=3 |26.|
+12/12/2019 01:24:47.808307 ./funcOfStructWith2dArrayclient: C150StreamSocket::write: Success writing packet with len=3 |26.|
+12/12/2019 01:24:47.808335 ./funcOfStructWith2dArrayclient: C150StreamSocket::write: attempting to send packet with len=6 |Drake.|
+12/12/2019 01:24:47.808375 ./funcOfStructWith2dArrayclient: C150StreamSocket::write: Success writing packet with len=6 |Drake.|
+12/12/2019 01:24:47.808403 ./funcOfStructWith2dArrayclient: C150StreamSocket::write: attempting to send packet with len=7 |Nguyen.|
+12/12/2019 01:24:47.808446 ./funcOfStructWith2dArrayclient: C150StreamSocket::write: Success writing packet with len=7 |Nguyen.|
+12/12/2019 01:24:47.808474 ./funcOfStructWith2dArrayclient: C150StreamSocket::write: attempting to send packet with len=3 |24.|
+12/12/2019 01:24:47.808515 ./funcOfStructWith2dArrayclient: C150StreamSocket::write: Success writing packet with len=3 |24.|
+12/12/2019 01:24:47.808543 ./funcOfStructWith2dArrayclient: C150StreamSocket::write: attempting to send packet with len=7 |Runzte.|
+12/12/2019 01:24:47.808587 ./funcOfStructWith2dArrayclient: C150StreamSocket::write: Success writing packet with len=7 |Runzte.|
+12/12/2019 01:24:47.808615 ./funcOfStructWith2dArrayclient: C150StreamSocket::write: attempting to send packet with len=3 |Si.|
+12/12/2019 01:24:47.808656 ./funcOfStructWith2dArrayclient: C150StreamSocket::write: Success writing packet with len=3 |Si.|
+12/12/2019 01:24:47.808684 ./funcOfStructWith2dArrayclient: C150StreamSocket::write: attempting to send packet with len=3 |36.|
+12/12/2019 01:24:47.808727 ./funcOfStructWith2dArrayclient: C150StreamSocket::write: Success writing packet with len=3 |36.|
+12/12/2019 01:24:47.808755 ./funcOfStructWith2dArrayclient: C150StreamSocket::write: attempting to send packet with len=6 |Drake.|
+12/12/2019 01:24:47.808796 ./funcOfStructWith2dArrayclient: C150StreamSocket::write: Success writing packet with len=6 |Drake.|
+12/12/2019 01:24:47.808828 ./funcOfStructWith2dArrayclient: C150StreamSocket::write: attempting to send packet with len=7 |Nguyen.|
+12/12/2019 01:24:47.808872 ./funcOfStructWith2dArrayclient: C150StreamSocket::write: Success writing packet with len=7 |Nguyen.|
+12/12/2019 01:24:47.808900 ./funcOfStructWith2dArrayclient: C150StreamSocket::write: attempting to send packet with len=3 |34.|
+12/12/2019 01:24:47.808941 ./funcOfStructWith2dArrayclient: C150StreamSocket::write: Success writing packet with len=3 |34.|
+12/12/2019 01:24:47.808969 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.810644 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.810677 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |-|
+12/12/2019 01:24:47.810721 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.810750 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.810791 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |1|
+12/12/2019 01:24:47.810821 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.810866 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.810893 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |.|
+12/12/2019 01:24:47.810937 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.810965 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.811015 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |N|
+12/12/2019 01:24:47.811075 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.811104 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.811144 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |o|
+12/12/2019 01:24:47.811171 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.811198 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.811238 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |a|
+12/12/2019 01:24:47.811265 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.811305 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.811332 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |h|
+12/12/2019 01:24:47.811371 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.811400 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.811439 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |.|
+12/12/2019 01:24:47.811468 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.811495 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.811535 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |M|
+12/12/2019 01:24:47.811562 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.811590 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.811629 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |e|
+12/12/2019 01:24:47.811656 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.811683 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.811710 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |n|
+12/12/2019 01:24:47.811737 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.811764 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.811791 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |d|
+12/12/2019 01:24:47.811820 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.811849 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.811875 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |e|
+12/12/2019 01:24:47.811905 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.811932 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.811958 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |l|
+12/12/2019 01:24:47.812007 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.812045 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.812071 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |s|
+12/12/2019 01:24:47.812097 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.812124 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.812151 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |o|
+12/12/2019 01:24:47.812177 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.812204 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.812230 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |h|
+12/12/2019 01:24:47.812256 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.812283 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.812309 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |n|
+12/12/2019 01:24:47.812335 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.812362 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.812389 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |.|
+12/12/2019 01:24:47.812415 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.812442 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.812468 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |3|
+12/12/2019 01:24:47.812494 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.812521 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.812547 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |0|
+12/12/2019 01:24:47.812573 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.812600 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.812627 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |.|
+12/12/2019 01:24:47.812654 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.812681 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.812707 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |N|
+12/12/2019 01:24:47.812733 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.812760 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.812786 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |o|
+12/12/2019 01:24:47.812812 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.812842 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.812869 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |a|
+12/12/2019 01:24:47.812897 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.812924 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.812950 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |h|
+12/12/2019 01:24:47.812976 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.813006 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.813042 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |.|
+12/12/2019 01:24:47.813068 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.813095 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.813121 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |M|
+12/12/2019 01:24:47.813147 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.813174 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.813200 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |e|
+12/12/2019 01:24:47.813226 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.813253 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.813279 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |n|
+12/12/2019 01:24:47.813305 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.813332 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.813358 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |d|
+12/12/2019 01:24:47.813384 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.813411 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.813437 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |e|
+12/12/2019 01:24:47.813463 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.813490 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.813516 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |l|
+12/12/2019 01:24:47.813542 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.813569 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.813595 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |s|
+12/12/2019 01:24:47.813621 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.813647 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.813674 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |o|
+12/12/2019 01:24:47.813699 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.813726 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.813752 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |h|
+12/12/2019 01:24:47.813778 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.813805 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.813834 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |n|
+12/12/2019 01:24:47.813861 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.813890 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.813917 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |.|
+12/12/2019 01:24:47.813943 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.813973 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.814002 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |3|
+12/12/2019 01:24:47.814029 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.814065 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.814091 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |0|
+12/12/2019 01:24:47.814117 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.814144 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.814171 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |.|
+12/12/2019 01:24:47.814197 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.814224 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.814250 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |N|
+12/12/2019 01:24:47.814276 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.814303 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.814330 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |o|
+12/12/2019 01:24:47.814356 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.814383 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.814409 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |a|
+12/12/2019 01:24:47.814435 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.814462 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.814488 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |h|
+12/12/2019 01:24:47.814514 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.814541 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.814568 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |.|
+12/12/2019 01:24:47.814594 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.814621 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.814647 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |M|
+12/12/2019 01:24:47.814673 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.814700 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.814726 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |e|
+12/12/2019 01:24:47.814752 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.814779 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.814805 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |n|
+12/12/2019 01:24:47.814834 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.814862 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.814891 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |d|
+12/12/2019 01:24:47.814917 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.814944 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.814971 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |e|
+12/12/2019 01:24:47.814999 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.815027 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.815062 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |l|
+12/12/2019 01:24:47.815088 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.815115 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.815141 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |s|
+12/12/2019 01:24:47.815167 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.815194 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.815221 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |o|
+12/12/2019 01:24:47.815247 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.815274 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.815300 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |h|
+12/12/2019 01:24:47.815326 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.815353 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.815379 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |n|
+12/12/2019 01:24:47.815405 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.815432 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.815459 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |.|
+12/12/2019 01:24:47.815485 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.815512 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.815538 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |3|
+12/12/2019 01:24:47.815564 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.815591 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.815617 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |0|
+12/12/2019 01:24:47.815643 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.815670 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.815697 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |.|
+12/12/2019 01:24:47.815723 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.815750 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.815776 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |N|
+12/12/2019 01:24:47.815802 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.815830 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.815859 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |o|
+12/12/2019 01:24:47.815887 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.815914 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.815941 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |a|
+12/12/2019 01:24:47.815967 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.815996 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.816023 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |h|
+12/12/2019 01:24:47.816058 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.816085 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.816112 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |.|
+12/12/2019 01:24:47.816138 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.816165 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.816192 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |M|
+12/12/2019 01:24:47.816218 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.816245 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.816271 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |e|
+12/12/2019 01:24:47.816298 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.816325 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.816351 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |n|
+12/12/2019 01:24:47.816377 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.816404 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.816431 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |d|
+12/12/2019 01:24:47.816457 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.816484 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.816511 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |e|
+12/12/2019 01:24:47.816537 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.816564 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.816590 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |l|
+12/12/2019 01:24:47.816617 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.816644 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.816670 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |s|
+12/12/2019 01:24:47.816696 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.816724 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.816750 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |o|
+12/12/2019 01:24:47.816776 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.816803 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.816830 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |h|
+12/12/2019 01:24:47.816859 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.816889 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.816916 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |n|
+12/12/2019 01:24:47.816942 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.816978 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.817008 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |.|
+12/12/2019 01:24:47.817043 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.817071 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.817098 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |3|
+12/12/2019 01:24:47.817124 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.817151 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.817178 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |0|
+12/12/2019 01:24:47.817204 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.817232 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.817258 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |.|
+12/12/2019 01:24:47.817285 ./funcOfStructWith2dArrayclient: funcOfStructWith2dArray.proxy.cpp: operation1() invocation sent, waiting for response
+12/12/2019 01:24:47.817312 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.817340 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=5
+12/12/2019 01:24:47.817367 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=5 |DONE.|
+12/12/2019 01:24:47.817393 ./funcOfStructWith2dArrayclient: funcOfStructWith2dArray.proxy.cpp: add() successful return from remote call
+12/12/2019 01:24:47.817424 ./funcOfStructWith2dArrayclient: C150StreamSocket::write: attempting to send packet with len=11 |operation2.|
+12/12/2019 01:24:47.817461 ./funcOfStructWith2dArrayclient: C150StreamSocket::write: Success writing packet with len=11 |operation2.|
+12/12/2019 01:24:47.817490 ./funcOfStructWith2dArrayclient: C150StreamSocket::write: attempting to send packet with len=7 |100000.|
+12/12/2019 01:24:47.817519 ./funcOfStructWith2dArrayclient: C150StreamSocket::write: Success writing packet with len=7 |100000.|
+12/12/2019 01:24:47.817546 ./funcOfStructWith2dArrayclient: C150StreamSocket::write: attempting to send packet with len=7 |Runzte.|
+12/12/2019 01:24:47.817574 ./funcOfStructWith2dArrayclient: C150StreamSocket::write: Success writing packet with len=7 |Runzte.|
+12/12/2019 01:24:47.817601 ./funcOfStructWith2dArrayclient: C150StreamSocket::write: attempting to send packet with len=3 |Si.|
+12/12/2019 01:24:47.817629 ./funcOfStructWith2dArrayclient: C150StreamSocket::write: Success writing packet with len=3 |Si.|
+12/12/2019 01:24:47.817657 ./funcOfStructWith2dArrayclient: C150StreamSocket::write: attempting to send packet with len=3 |26.|
+12/12/2019 01:24:47.817684 ./funcOfStructWith2dArrayclient: C150StreamSocket::write: Success writing packet with len=3 |26.|
+12/12/2019 01:24:47.817712 ./funcOfStructWith2dArrayclient: C150StreamSocket::write: attempting to send packet with len=6 |Drake.|
+12/12/2019 01:24:47.817740 ./funcOfStructWith2dArrayclient: C150StreamSocket::write: Success writing packet with len=6 |Drake.|
+12/12/2019 01:24:47.817767 ./funcOfStructWith2dArrayclient: C150StreamSocket::write: attempting to send packet with len=7 |Nguyen.|
+12/12/2019 01:24:47.817795 ./funcOfStructWith2dArrayclient: C150StreamSocket::write: Success writing packet with len=7 |Nguyen.|
+12/12/2019 01:24:47.817824 ./funcOfStructWith2dArrayclient: C150StreamSocket::write: attempting to send packet with len=3 |24.|
+12/12/2019 01:24:47.817854 ./funcOfStructWith2dArrayclient: C150StreamSocket::write: Success writing packet with len=3 |24.|
+12/12/2019 01:24:47.817882 ./funcOfStructWith2dArrayclient: C150StreamSocket::write: attempting to send packet with len=7 |Runzte.|
+12/12/2019 01:24:47.817910 ./funcOfStructWith2dArrayclient: C150StreamSocket::write: Success writing packet with len=7 |Runzte.|
+12/12/2019 01:24:47.817937 ./funcOfStructWith2dArrayclient: C150StreamSocket::write: attempting to send packet with len=3 |Si.|
+12/12/2019 01:24:47.817965 ./funcOfStructWith2dArrayclient: C150StreamSocket::write: Success writing packet with len=3 |Si.|
+12/12/2019 01:24:47.817995 ./funcOfStructWith2dArrayclient: C150StreamSocket::write: attempting to send packet with len=3 |36.|
+12/12/2019 01:24:47.818023 ./funcOfStructWith2dArrayclient: C150StreamSocket::write: Success writing packet with len=3 |36.|
+12/12/2019 01:24:47.818063 ./funcOfStructWith2dArrayclient: C150StreamSocket::write: attempting to send packet with len=6 |Drake.|
+12/12/2019 01:24:47.818090 ./funcOfStructWith2dArrayclient: C150StreamSocket::write: Success writing packet with len=6 |Drake.|
+12/12/2019 01:24:47.818117 ./funcOfStructWith2dArrayclient: C150StreamSocket::write: attempting to send packet with len=7 |Nguyen.|
+12/12/2019 01:24:47.818145 ./funcOfStructWith2dArrayclient: C150StreamSocket::write: Success writing packet with len=7 |Nguyen.|
+12/12/2019 01:24:47.818172 ./funcOfStructWith2dArrayclient: C150StreamSocket::write: attempting to send packet with len=3 |34.|
+12/12/2019 01:24:47.818200 ./funcOfStructWith2dArrayclient: C150StreamSocket::write: Success writing packet with len=3 |34.|
+12/12/2019 01:24:47.818226 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.859310 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.859340 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |-|
+12/12/2019 01:24:47.859367 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.859396 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.859423 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |2|
+12/12/2019 01:24:47.859449 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.859477 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.859507 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |.|
+12/12/2019 01:24:47.859543 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.899295 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.899323 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |L|
+12/12/2019 01:24:47.899350 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.899378 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.899405 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |i|
+12/12/2019 01:24:47.899431 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.899459 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.899485 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |o|
+12/12/2019 01:24:47.899511 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.899539 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.899565 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |n|
+12/12/2019 01:24:47.899599 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.899626 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.899653 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |e|
+12/12/2019 01:24:47.899679 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.899706 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.899733 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |l|
+12/12/2019 01:24:47.899759 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.899786 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.899813 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |.|
+12/12/2019 01:24:47.899840 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.899867 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.899893 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |M|
+12/12/2019 01:24:47.899919 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.899947 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.899973 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |e|
+12/12/2019 01:24:47.900000 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.900027 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.900061 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |s|
+12/12/2019 01:24:47.900087 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.900114 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.900141 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |s|
+12/12/2019 01:24:47.900173 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.900201 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.900228 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |i|
+12/12/2019 01:24:47.900257 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.900285 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.900312 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |.|
+12/12/2019 01:24:47.900340 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.900368 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.900395 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |3|
+12/12/2019 01:24:47.900422 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.900449 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.900475 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |3|
+12/12/2019 01:24:47.900502 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.900529 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.900555 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |.|
+12/12/2019 01:24:47.900582 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.900612 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.900639 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |L|
+12/12/2019 01:24:47.900665 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.900692 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.900718 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |i|
+12/12/2019 01:24:47.900745 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.900772 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.900798 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |o|
+12/12/2019 01:24:47.900825 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.900852 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.900878 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |n|
+12/12/2019 01:24:47.900904 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.900932 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.900958 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |e|
+12/12/2019 01:24:47.900984 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.901012 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.901044 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |l|
+12/12/2019 01:24:47.901070 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.901097 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.901131 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |.|
+12/12/2019 01:24:47.901160 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.901194 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.901221 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |M|
+12/12/2019 01:24:47.901247 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.901278 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.901305 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |e|
+12/12/2019 01:24:47.901332 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.901360 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.901388 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |s|
+12/12/2019 01:24:47.901414 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.901442 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.901468 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |s|
+12/12/2019 01:24:47.901494 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.901521 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.901548 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |i|
+12/12/2019 01:24:47.901574 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.901601 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.901634 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |.|
+12/12/2019 01:24:47.901661 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.901689 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.901715 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |3|
+12/12/2019 01:24:47.901741 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.901769 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.901795 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |3|
+12/12/2019 01:24:47.901821 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.901848 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.901875 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |.|
+12/12/2019 01:24:47.901901 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.901928 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.901959 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |L|
+12/12/2019 01:24:47.901985 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.902012 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.902045 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |i|
+12/12/2019 01:24:47.902071 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.902099 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.902125 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |o|
+12/12/2019 01:24:47.902151 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.902184 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.902213 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |n|
+12/12/2019 01:24:47.902239 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.902269 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.902296 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |e|
+12/12/2019 01:24:47.902323 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.902351 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.902379 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |l|
+12/12/2019 01:24:47.902406 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.902433 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.902459 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |.|
+12/12/2019 01:24:47.902486 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.902513 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.902539 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |M|
+12/12/2019 01:24:47.902566 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.902593 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.902621 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |e|
+12/12/2019 01:24:47.902647 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.902675 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.902701 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |s|
+12/12/2019 01:24:47.902728 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.902755 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.902781 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |s|
+12/12/2019 01:24:47.902807 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.902835 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.902861 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |i|
+12/12/2019 01:24:47.902887 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.902914 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.902941 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |.|
+12/12/2019 01:24:47.902967 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.902994 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.903021 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |3|
+12/12/2019 01:24:47.903053 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.903081 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.903107 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |3|
+12/12/2019 01:24:47.903134 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.903161 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.903192 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |.|
+12/12/2019 01:24:47.903221 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.903248 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.903278 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |L|
+12/12/2019 01:24:47.903305 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.903333 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.903360 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |i|
+12/12/2019 01:24:47.903388 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.903415 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.903442 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |o|
+12/12/2019 01:24:47.903468 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.903495 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.903522 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |n|
+12/12/2019 01:24:47.903548 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.903575 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.903602 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |e|
+12/12/2019 01:24:47.903630 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.903658 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.903684 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |l|
+12/12/2019 01:24:47.903711 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.903738 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.903764 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |.|
+12/12/2019 01:24:47.903791 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.903818 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.903845 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |M|
+12/12/2019 01:24:47.903871 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.903898 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.903924 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |e|
+12/12/2019 01:24:47.903951 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.903978 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.904004 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |s|
+12/12/2019 01:24:47.904031 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.904063 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.904090 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |s|
+12/12/2019 01:24:47.904116 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.904143 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.904170 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |i|
+12/12/2019 01:24:47.904201 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.904230 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.904259 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |.|
+12/12/2019 01:24:47.904287 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.904315 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.904342 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |3|
+12/12/2019 01:24:47.904369 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.904397 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.904423 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |3|
+12/12/2019 01:24:47.904450 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.904477 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=1
+12/12/2019 01:24:47.904503 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=1 |.|
+12/12/2019 01:24:47.904530 ./funcOfStructWith2dArrayclient: funcOfStructWith2dArray.proxy.cpp: operation1() invocation sent, waiting for response
+12/12/2019 01:24:47.904557 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Ready to read data
+12/12/2019 01:24:47.904598 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: Dropped through read with len=5
+12/12/2019 01:24:47.904625 ./funcOfStructWith2dArrayclient: C150StreamSocket::read: successful read with len=5 |DONE.|
+12/12/2019 01:24:47.904654 ./funcOfStructWith2dArrayclient: funcOfStructWith2dArray.proxy.cpp: add() successful return from remote call

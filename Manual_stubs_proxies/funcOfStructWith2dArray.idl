@@ -1,0 +1,12 @@
+struct Stat {float strength; float intel; float num[2][2][2];};
+
+struct Person {string name[2]; int age; Stat st;};
+
+struct StructWith2dArray {
+  int aNumber;
+  Person people[2][2];
+};
+
+StructWith2dArray operation1(StructWith2dArray s1, StructWith2dArray s2);
+
+Person operation2(StructWith2dArray s1, Person p);

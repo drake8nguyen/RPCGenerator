@@ -1,0 +1,9 @@
+struct Person {string firstname; string lastname; int age;};
+
+struct StructWithArrays {
+  int aNumber;
+  Person people[2];
+};
+
+Person operation1(StructWithArrays s);
+
